@@ -1,4 +1,3 @@
-"""My own edge-case tests (the public tests are only a smoke test)."""
 import base64
 import hashlib
 import itertools
